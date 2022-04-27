@@ -6,3 +6,4 @@ Our lecture is ready to use pdf Guide for understanding the QAOA concept via gam
 ![alt text](https://github.com/VasilyBokov/qaoa-application-game-world-quantum/blob/main/result_4q.png)
 ![alt text](https://github.com/VasilyBokov/qaoa-application-game-world-quantum/blob/main/download.png)
 
+![alt text](https://github.com/VasilyBokov/qaoa-application-game-world-quantum/blob/main/graph_model22.png)
