@@ -4,5 +4,5 @@ Our lecture is ready to use pdf Guide for understanding the QAOA concept via gam
 
 ![alt text](https://raw.githubusercontent.com/Qiskit/qiskit/master/images/qiskit_header.png)
 ![alt text](https://github.com/VasilyBokov/qaoa-application-game-world-quantum/blob/main/result_4q.png)
-
+![alt text](https://github.com/VasilyBokov/qaoa-application-game-world-quantum/blob/main/download.png)
 
